@@ -1,6 +1,36 @@
 # About this project
 
-# logbook 
+
+# Resrouces 
+
+working fiels for project
+/Users/ianm/Dropbox/workbench/sage-maker-srm-test
+ 
+Files from the team are in:
+\\sageltdsan01\Books_Directory\New Online Product Development\SRMC\2019\1. Name-finding\Emails sent\
+
+# logbook 2019-03-26 Tuesday
+
+
+# logbook 2019-03-25 Monday 
+
+nuked my enviornment and had to start again, got it all up and running again
+
+found some doucumentation on how to get probablistic predictors out, see:
+
+
+LinearSVC does not support the predict_proba, so we might need to use a different kernal
+https://www.kaggle.com/c/home-credit-default-risk/discussion/63499 
+
+
+https://stackoverflow.com/questions/15015710/how-can-i-know-probability-of-class-predicted-by-predict-function-in-support-v
+https://scikit-learn.org/stable/modules/svm.html
+
+Adam helped with setting up the SVC to balance the weights of having unbalabnced training classes
+
+
+
+# logbook 2019-03-22 - Friday  
 
 Making progress on doing classification of the abstracs using Spacy and SciScpay
 
